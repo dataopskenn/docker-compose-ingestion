@@ -5,6 +5,7 @@ Data ingestion with a python pipeline and docker-compose
 - docker 
 - docker-compose
 - postgresql
+- yaml
 - *airflow
 - *terraform
 - python and 
